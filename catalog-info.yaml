@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: brodagroupsoftware-domain
+  name: sample-orgs
   description: A collection of sample organizations
 spec:
   targets:
